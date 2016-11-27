@@ -2,5 +2,9 @@
   "name": "emoji-commit",
   "version": "0.0.0",
   "license": "MIT",
-  "repository": "LinusU/npm-emoji-commit"
+  "repository": "LinusU/npm-emoji-commit",
+  "bin": "./emoji-commit",
+  "os": [
+    "darwin"
+  ]
 }
